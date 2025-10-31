@@ -9,7 +9,7 @@ My inspiration comes from the belief that every challenge in a new project is an
 
 
 
-Skills: HTML / CSS / PHP / JS / SQL / C# / PHYTON / PHOTOSHOP / CYBER SEC /
+Skills: HTML / CSS / PHP / JS / ASP.NET / SQL / C# / PHYTON / PHOTOSHOP / CYBER SEC /
 
 - 🔭 I’m currently working on Software Development 
 - 🌱 I’m currently learning C#,Phyton 
