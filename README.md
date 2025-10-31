@@ -12,7 +12,7 @@ My inspiration comes from the belief that every challenge in a new project is an
 Skills: HTML / CSS / PHP / JS / ASP.NET / SQL / C# / PYTHON / PHOTOSHOP / CYBER SEC /
 
 - 🔭 I’m currently working on Software Development 
-- 🌱 I’m currently learning C#,Phyton 
+- 🌱 I’m currently learning C#,Python 
 - 👯 I’m looking to collaborate on Microsoft 
 - 💬 Ask me about My Hobbies  
 - 📫 How to reach me: Gmail or Instagram 
